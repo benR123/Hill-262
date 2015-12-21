@@ -6,7 +6,7 @@ make something slightly more than a graybox level, but less than a finished prod
 using Unreal’s Blueprint system, I was able to teach myself the ins and outs of the game engine. The premise of the wider game this 
 level would be in is that WWI took an extra ten or so years to end. As a result, the US underwent a communist revolution, taking it out 
 of the war much like Russia in 1917. After the war ended, mainland Europe blamed the outside nations like the US and Russia for 
-prolonging the war by staying out of it, and banded together under a fascist, racial community not unlike Nazism, though not 
+prolonging the war by staying out of it, and banded together under a fascist, racial community not unlike early, pre-war Nazism, though not 
 specifically Anti-Semitic. The level is set in an alternate 1966 during WWII where a communist coalition of the US, Canada, Western 
 Spain, and Russia has invaded mainland Europe to conquer the fascist alliance and its capital in Paris. In the level, the player plays
 as Henry Cunningham, a Captain in the Red Guards Company, similar to US Army Rangers. The player is tasked with holding a strategic hill
